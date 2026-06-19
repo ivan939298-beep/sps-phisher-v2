@@ -1,0 +1,7 @@
+{
+    "default_port": 8080,
+    "default_tunnel": "1",
+    "telegram_bot_token": "",
+    "telegram_chat_id": "",
+    "auto_open_browser": false
+}
